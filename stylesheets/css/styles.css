@@ -1,0 +1,18 @@
+.hero-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35em;
+}
+
+#hero {
+  height: 20em;
+}
+
+#store {
+
+}
+
+.left-nav-box {
+
+}
